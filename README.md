@@ -1,0 +1,2 @@
+# FunnyProject
+It is funny.
